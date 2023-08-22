@@ -54,7 +54,9 @@ module.exports = {
   links: [
     {
       name: 'Telegram',
-      link: '',
+      link: 'https://t.me/quangsang2k3',
+      name: 'Youtobe',
+      link: ''
     },
   ],
 
